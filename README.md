@@ -25,5 +25,6 @@ A simple Android application that fetches and displays real-time weather data us
 ---
 
 ## 📂 Project Structure
-<img width="214" height="455" alt="Screenshot 2025-08-30 124510" src="https://github.com/user-attachments/assets/2be12a37-0557-4d05-aec6-7e968b77a511" />
+
+<img width="209" height="458" alt="Screenshot 2025-08-30 124823" src="https://github.com/user-attachments/assets/619c7a9f-4c9c-4860-82e3-1cf98353a048" />
 
